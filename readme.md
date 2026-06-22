@@ -200,7 +200,3 @@ Pull requests welcome. To keep things simple, the goal is to stay **single-file,
 - [ ] QR code on startup for easy mobile access
 - [ ] Dark mode toggle
 - [ ] ZIP download of entire folder
-
----
-
-*Built with Python's standard library — no Flask, no FastAPI, no Node.js required.*
